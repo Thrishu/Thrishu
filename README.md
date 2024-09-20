@@ -1,5 +1,4 @@
-[![MasterHead]
-(https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)(https://Thrishu.io)
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e6/92/1a/e6921a2ba815d72975bb99c77b2eb82c.gif](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)">
 <h1 align="center">Hi 👋, I'm Thrishul K V</h1>
 <h3 align="center">Eager and Motivated IT Senior Ready to Learn, Innovate, and Excel</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/92/1a/e6921a2ba815d72975bb99c77b2eb82c.gif">
