@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thrishul K V</h1>
 <h3 align="center">Eager and Motivated IT Senior Ready to Learn, Innovate, and Excel</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/92/1a/e6921a2ba815d72975bb99c77b2eb82c.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrishu&label=Profile%20views&color=0e75b6&style=flat" alt="thrishu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
